@@ -1,4 +1,4 @@
-# myos
+# myOS
 
 Mobile operating system designed to work on Android / Ubuntu machines, using Objective-C, based on GNUstep, Chameleon and Cocotron frameworks.
 
