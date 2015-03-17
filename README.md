@@ -10,3 +10,5 @@ Mobile operating system designed to work on Android / Ubuntu machines, using Obj
   * [myos.myapps](https://github.com/amraboelela/myos.myapps)
   * [myos.applications](https://github.com/amraboelela/myos.applications)
  
+* For more info:
+[myos.wiki](https://github.com/amraboelela/myos/wiki)
